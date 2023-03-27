@@ -1,0 +1,4 @@
+abc@gmail.com
+Den
+#{name}=Alex;
+Dear #{name} you are accepted!
